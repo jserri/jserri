@@ -1,4 +1,4 @@
-👋 Hi, I’m Josèphine
+<h1>👋 Hi, I’m Josèphine</h1>
 
 👀 I’m interested in WEB DEVELOPMENT
 🌱 I’m currently learning WEB TECHNOLOGIES
