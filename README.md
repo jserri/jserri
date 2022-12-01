@@ -1,12 +1,11 @@
 <h1>👋 Hi, I’m Josèphine</h1>
 
-<h2>👀 I’m interested in WEB DEVELOPMENT</h2>
+👀 I’m interested in WEB DEVELOPMENT
+🌱 I’m currently learning WEB TECHNOLOGIES
 
-<h2>🌱 I’m currently learning WEB TECHNOLOGIES</h2>
-
-Languages and Technologies 💻
+<h1>Languages and Technologies 💻</h1>
 Top Langs
-
+(https://github-readme-stats.vercel.app/api?username=jserri]
 css3 html5 javascript git
 
 <!--
