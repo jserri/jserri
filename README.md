@@ -22,8 +22,7 @@
 </div>
 
 <h1>Contact 📞</h1>
-<a href="www.linkedin.com/in/josephine-serri" rel="nofollow">
-  <img style="max-width: 100%;" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/linked-in-alt.svg">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali14" height="30" width="40" style="max-width: 100%;">
 </a>
 
 
