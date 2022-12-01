@@ -27,7 +27,8 @@
 
 <h1>📊 GitHub Stats:</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jserri&hide=contribs,prs)
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jserri&hide=contribs,prs)</div>
+<div>[![GitHub Streak](https://streak-stats.demolab.com?user=jserri&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</div>
 
 
 
