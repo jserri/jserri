@@ -21,6 +21,10 @@
   
 </div>
 
+<h1>Contact 📞</h1>
+<a href="www.linkedin.com/in/josephine-serri
+"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+
 
 <!--
 **jserri/jserri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
