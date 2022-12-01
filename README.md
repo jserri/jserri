@@ -5,7 +5,9 @@
 
 <h1>Languages and Technologies 💻</h1>
 Top Langs
-(https://github-readme-stats.vercel.app/api?username=jserri]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jserri)](https://github.com/anuraghazra/github-readme-stats)
+
 css3 html5 javascript git
 
 <!--
