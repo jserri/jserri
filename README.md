@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Josèphine</h1>
-
+<h2>
 👀 I’m interested in WEB DEVELOPMENT
 🌱 I’m currently learning WEB TECHNOLOGIES
-
+</h2>
 Languages and Technologies 💻
 Top Langs
 
