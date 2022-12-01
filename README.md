@@ -25,6 +25,8 @@
 <a href="https://linkedin.com/in/josephine-serri" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali14" height="30" width="40" style="max-width: 100%;">
 </a>
 
+<h1>📊 GitHub Stats:</h1>
+
 
 
 <!--
