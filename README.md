@@ -12,6 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jserri)](https://github.com/anuraghazra/github-readme-stats)
 
+<i class="html-5"></i>
 css3 html5 javascript git
 
 <!--
