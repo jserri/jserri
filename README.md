@@ -23,7 +23,7 @@
 
 <h1>Contact 📞</h1>
 <a href="www.linkedin.com/in/josephine-serri
-"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+"><img style="max-width: 100%;" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 
 
 <!--
