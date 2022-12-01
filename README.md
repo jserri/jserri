@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 Hi, I’m Josèphine
+
+👀 I’m interested in WEB DEVELOPMENT
+🌱 I’m currently learning WEB TECHNOLOGIES
+
+Languages and Technologies 💻
+Top Langs
+
+css3 html5 javascript git
 
 <!--
 **jserri/jserri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
